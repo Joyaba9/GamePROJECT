@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893067157731",
+    "project_id": "gameproject-joya",
+    "storage_bucket": "gameproject-joya.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893067157731:android:dd9dac918d0d5d6e96a5d6",
+        "android_client_info": {
+          "package_name": "com.example.gameproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7v1eyi277sW7XLsOCVrckJSW4H_vAyBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
